@@ -1,3 +1,3 @@
-# Simple-programs
+# Programs
 
-Some very basic C++ programs written using if-else, while loops, etc.
+Some programs in C++ .
